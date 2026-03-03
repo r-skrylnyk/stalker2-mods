@@ -6,3 +6,5 @@ Tested in Patch 1.8.
 Mods:
 1. Portable radio. (readme instide directory)
 2. Weapons sound from STALKER SoC.
+
+Demonstration: https://youtu.be/UvctjNkEbAE
