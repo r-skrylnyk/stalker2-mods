@@ -43,4 +43,4 @@ ALWAYS_TRY_LOAD_ASSET = true
 -- /Game/_STALKER2/GameDesign/QuestInteractiveObjects/Radio/GenericRadio/Radio_120/Hub/BP_100_Rads_Bar_120.BP_100_Rads_Bar_120_C
 
 -- You should copy:  "Class": "BlueprintGeneratedClass'/Game/_STALKER2/GameDesign/QuestInteractiveObjects/Radio/GenericRadio/Radio_120/Hub/BP_Yaniv_Station_120.BP_Yaniv_Station_120_C'",
-RADIO_BP_ASSET = "/Game/_STALKER2/GameDesign/QuestInteractiveObjects/Radio/GenericRadio/Radio_120/Hub/BP_Skadovsk_120.BP_Skadovsk_120_C"
+RADIO_BP_ASSET = "/Game/_STALKER2/GameDesign/QuestInteractiveObjects/Radio/GenericRadio/Radio_120/Hub/BP_Zalissya_Bar_120.BP_Zalissya_Bar_120_C"
