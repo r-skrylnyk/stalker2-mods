@@ -2,6 +2,9 @@ Exploring the Zone with the radio is more atmospheric.
 
 Copy files from archive to: D:\SteamLibrary\steamapps\common\S.T.A.L.K.E.R. 2 Heart of Chornobyl\Stalker2\Binaries\Win64
 
+COMPATIBILITY:
+Game version 1.8.0 and higher.
+
 Quick Station Hotkeys
 Instantly switch between your favorite radio stations with dedicated hotkeys
 8 pre-configured quick-access stations (customizable in options.lua)
