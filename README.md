@@ -6,5 +6,6 @@ Tested in Patch 1.8.
 Mods:
 1. Fraction radio. (readme instide directory)
 2. Weapons sound from STALKER SoC.
+3. Weird water Undrunked. (readme incide dir)
 
 Demonstration: https://youtu.be/UvctjNkEbAE
