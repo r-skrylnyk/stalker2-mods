@@ -38,16 +38,15 @@ Game version **1.8.0** and higher.
 
 ### Quick Station Access
 
-| Hotkey | Station |
-|--------|---------|
-| Shift + F2 | 100 Rads Bar |
-| Shift + F3 | Sidorovich's Bunker |
-| Shift + F4 | Zalissya |
-| Shift + F5 | Skadovsk |
-| Shift + F6 | Shevchenko |
-| Shift + F7 | Icarus |
-| Shift + F9 | Yaniv |
-| Shift + F10 | Kazkovy |
+Available Radio Stations (Fraction Radio (second file in downloads))
+Mix stations = F1
+Neutral = F2
+Bandits = F3
+Freedom = F4
+Military = F5
+Duty = F6
+Mercenaries = Key.F7
+Bonus radio: F9, F10. F12.
 
 ## Links
 
