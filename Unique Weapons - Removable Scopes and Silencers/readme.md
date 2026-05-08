@@ -28,3 +28,29 @@ Sharpshooter, Cavalier, Trophy, Tank, Sotnyk, Sledgehammer, Texas, Silence, Kors
 ## How to Use
 
 Visit a technician and install or remove scopes and silencers on any supported weapon. Previously locked preinstalled attachments are now fully removable.
+
+
+
+
+V2 Version.
+
+New in v2 — Predator shotgun:
+Magazine upgrades now available: large magazine, mag-fed conversion, short grip.
+
+New in v2 — Drowned AK74:
+Removable preinstalled grenade launcher.
+
+New in v2 — DLC weapons (Deluxe / PreOrder / Ultimate):
+
+AR416 Monolith — removable iron sights, compatible with EN_X8 and M701 scopes
+
+New in v2 — magazine capacity fixes:
+Sledgehammer and SPAS-12 — increased to 9 rounds (matching their extended magazine variants).
+
+New in v2 — Gun_RifleMonolith_AR (third-party mod weapon):
+Full compatibility with M16 attachments: silencer, scopes, grenade launcher, extended magazine.
+
+
+
+V3 Version:
+Fix durability Clusterfuck AR. Shots until 0% durability 900, before this fix shots was 600.
