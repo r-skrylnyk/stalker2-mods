@@ -32,7 +32,9 @@ Visit a technician and install or remove scopes and silencers on any supported w
 
 
 
-V2 Version.
+## V2 Version.
+
+V1 version mod included.
 
 New in v2 — Predator shotgun:
 Magazine upgrades now available: large magazine, mag-fed conversion, short grip.
@@ -52,5 +54,8 @@ Full compatibility with M16 attachments: silencer, scopes, grenade launcher, ext
 
 
 
-V3 Version:
+## V3 Version:
+
+V1 and V2 versions mod included.
+
 Fix durability Clusterfuck AR. Shots until 0% durability 900, before this fix shots was 600.
