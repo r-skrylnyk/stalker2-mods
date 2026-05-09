@@ -45,6 +45,8 @@ Removable preinstalled grenade launcher.
 New in v2 — DLC weapons (Deluxe / PreOrder / Ultimate):
 
 AR416 Monolith — removable iron sights, compatible with EN_X8 and M701 scopes
+SOFMOD add X4 EN scope.
+Trophy add X4 RU scope.
 
 New in v2 — magazine capacity fixes:
 Sledgehammer and SPAS-12 — increased to 9 rounds (matching their extended magazine variants).
